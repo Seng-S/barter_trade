@@ -1,0 +1,13 @@
+.ui-slider .ui-slider-handle {
+	position: absolute;
+	z-index: 2;
+	width: 5.2em;
+	height: 100px;
+	cursor: default;
+	margin: 0 -40px auto !important;
+	text-align: center;	
+	line-height: 35px;
+	color: #FFFFFF;
+	font-size: 15px;
+    
+}
